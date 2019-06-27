@@ -4,9 +4,11 @@ application simulates a rudimentary storefront experience, allowing customers to
 stock. Inquirer is used to guide users through use of the application.
 
 #First screenshot:
-this screenshot shows the ability of the user to choose the product he wants and the procedure in order to purchase it.
-![Bamazon Image](Screenshots/Screenshoot1.png)
 
-#second Screenshoot:
+this screenshot shows the ability of the user to choose the product he wants and the procedure in order to purchase it.
+![Bamazon Image](Screenshots/Screenshot1.png)
+
+#Second Screenshoot:
+
 shows the same things with the fisrt screenshot, but with different products.
 ![Bamazon Image](Screenshots/Screenshoot2.png)
